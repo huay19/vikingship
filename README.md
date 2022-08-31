@@ -1,5 +1,5 @@
 ## Vikingship component library
-## 使用 React+typescript写的组件库
+## 使用 React+typescript写的组件库：![预览](https://chenshone.github.io/chenshone-ui/?path=/story/%E7%AE%80%E4%BB%8B--welcome)
 
 
 
